@@ -1,6 +1,2 @@
 # Face_Emotion_detection
-Detecting the real-time emotion of the person with a camera input is one of the advanced features in the machine learning process. 
-The detection of emotion of a person using a camera is useful for various research and analytics purposes. 
-The detection of emotion is made by using the machine learning concept. You can use the trained dataset to detect the emotion of the human being. 
-For detecting the different emotions, first, you need to train those different emotions, or you can use a dataset already available on the internet.
-In this article, we will discuss creating a Python program to detect the real-time emotion of a human being using the camera.
+Real-Time Emotion Detection Using Python and Camera Input" is a state-of-the-art application of machine learning and computer vision that enables the real-time analysis of human emotions through camera input. This project holds significant value for research and analytics in various domains, including marketing, customer experience enhancement, and psychological studies. In this comprehensive guide, we delve into the creation of a Python program for real-time emotion detection. To embark on this journey, a basic understanding of Python programming and familiarity with machine learning and computer vision concepts are essential. It is also crucial to have the following libraries installed: OpenCV for computer vision tasks, TensorFlow/Keras for deep learning, NumPy for numerical operations, and Matplotlib for data visualization.
